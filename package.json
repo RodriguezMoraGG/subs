@@ -1,0 +1,12 @@
+{
+  "name": "gr-mex-subs-addon",
+  "version": "1.0.0",
+  "description": "Stremio addon serving Mexican Spanish subtitles from GitHub",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "stremio-addon-sdk": "^1.6.10"
+  }
+}
